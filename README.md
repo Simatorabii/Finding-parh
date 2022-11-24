@@ -1,1 +1,1 @@
-# Finding-parh
+# Finding-path
